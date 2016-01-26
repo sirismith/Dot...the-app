@@ -7,3 +7,6 @@ Here's what Siri tried to add earier:
 -notifying you a lot, or not as much, during ovulation period
 -remind you when to take out and put in nuvaring/take birth control
 -app asks you what you're feeling, ie, bloated, high sex drive
+
+Other Ideas
+===========
