@@ -11,4 +11,6 @@ Here's what Siri tried to add earier:
 Other Ideas
 ===========
 
-
+|  GROUP NAME  | GROUP MEMBER NAME | SLACK         NAME |
+|--------------|:-----------------:|:------------------:|
+|   HIPPO      |DANIELLE COULTER   |COULTERGEIST        |
